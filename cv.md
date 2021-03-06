@@ -6,7 +6,7 @@
 - https://www.facebook.com/alena.dubrouskaja
 - +375298687505
 
-## About me
+## About myself
 
 _I am creative, hardworking and purposeful._
 I work as software developer and business analyst.
