@@ -9,6 +9,8 @@
 ## About me
 
 _I am creative, hardworking and purposeful._
+I work as software developer and business analyst for many years.
+
 My goals:
 
 1. Finish my studies in RS School in Javascript by the end of summer 2021.
