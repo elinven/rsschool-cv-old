@@ -4,12 +4,12 @@
 
 - ivenhea@gmail.com
 - https://www.facebook.com/alena.dubrouskaja
-- 375298687505
+- +375298687505
 
 ## About me
 
 _I am creative, hardworking and purposeful._
-I work as software developer and business analyst for many years.
+I work as software developer and business analyst.
 
 My goals:
 
