@@ -1,0 +1,488 @@
+.headerblock {
+    position: absolute;
+    width: 1440px;
+    height: 779px;
+    left: 0px;
+    top: 2px;
+
+    background-color: #02160b;
+    background-image: url(./assets/fox.jpeg);
+}
+.wlheader {
+    width: 1440px;
+}
+
+.wllogoimg {
+  position: absolute;
+  width: 70px; 
+  height: 60px;
+  left: 120px;
+  top: 19px;
+
+  border-radius: 0px;
+}
+.wllogotext {
+    position: absolute;
+    width: 155px;
+    height: 60px;
+    left: 198px;
+    top: 0px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 60px;
+    
+    text-transform: uppercase;
+    text-align: center;
+
+    color: #F7F7F7;
+}
+.wlblog {
+    position: absolute;
+    width: 50px;
+    height: 60px;
+    left: 838px;
+    top: 19px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 60px;
+    text-decoration: none;
+  
+    color: #F7F7F7;
+}
+.wlcontacts {
+    position: absolute;
+    width: 96px;
+    height: 60px;
+    left: 951px;
+    top: 19px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 60px;
+    text-decoration: none;
+
+    color: #F7F7F7;
+}
+.wlsearch {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 1107px;
+    top: 33px;
+
+    background-image: url(./assets/Search.svg);
+    border-radius: 0px;
+}
+.wlsighin {
+    position: absolute;
+    width: 74px;
+    height: 48px;
+    left: 1223px;
+    top: 26px;
+        
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+     
+    color: #F7F7F7;
+}    
+.wlsighinbutton {
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    left: 1200px;
+    top: 24px;
+    
+    border: 2px solid #CD6326;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+    background: transparent;
+}      
+.wlsurvival {
+    position: absolute;
+    width: 199px;
+    height: 72px;
+    left: 120px;
+    top: 162px;
+
+        
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 72px;
+    
+    letter-spacing: 2px;
+        
+    color: #CD6326;    
+}
+.wltext {
+    position: absolute;
+    width: 274px;
+    height: 108px;
+    left: 120px;
+    top: 306px;
+        
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+       
+    color: #F7F7F7;    
+}
+.wldonate {
+    position: absolute;
+    width: 160px;
+    height: 60px;
+    left: 120px;
+    top: 479px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    text-align: center;
+    
+    color: #F7F7F7;
+    
+    background: #CD6326;
+    border-radius: 5px;    
+}
+.wlmain {
+    position: absolute;
+    width: 1440px;
+    height: 1368px;
+    left: 0px;
+    top: 775px;
+    background: #cccccc;    
+}
+.wllatest {
+    position: absolute;
+    width: 324px;
+    height: 72px;
+    left: 558px;
+    top: 70px;
+    
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 72px;
+    
+    text-align: center;
+    
+    /* font-dark */
+    
+    color: #333333;
+}
+.wlinfo1 {
+    position: absolute;
+    width: 332px;
+    height: 36px;
+    left: 554px;
+    top: 185px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+
+    text-align: center;
+    color: #666666;
+}
+.flex-container {
+    display: flex;
+    width: 1200px;
+    height: 380px;
+    align-items: center;
+    padding: 10px;
+    background-color: #cccccc;
+    flex-flow: column wrap;
+  }
+  .flex-container_deer,
+  .flex-container_squirrel,
+  .flex-container_bird {
+    flex-basis: auto;
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+  } 
+  .flex-container_deer {
+    position: absolute;
+    width: 300px;
+    height: 360px;
+    left: 210px;
+    top: 368px;
+
+    border-radius: 0px;  
+    align-self: flex-start;
+    background: url(./assets/deer.jpeg);
+
+  } 
+  .flex-container_squirrel {
+    position: absolute;
+    width: 300px;
+    height: 360px;
+    left: 570px;
+    top: 368px;
+
+    border-radius: 0px;      
+    align-self: flex-end;
+    background: url(./assets/squirrel.jpeg);
+  } 
+  .flex-container_bird {
+    position: absolute;
+    width: 300px;
+    height: 360px;
+    left: 930px;
+    top: 368px;
+
+    border-radius: 0px;
+    align-self: stretch;
+    background: url(./assets/bird.jpeg);
+  }
+  .wlget {
+    position: absolute;
+    width: 526px;
+    height: 41px;
+    left: 456px;
+    top: 928px;
+        
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 40px;
+    
+    text-align: center;
+        
+    color: #333333;    
+}
+.wlmail {
+    position: absolute;
+    width: 530px;
+    height: 58px;
+    left: 392px;
+    top: 1067px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+
+    border: 1px solid #666666;
+    border-radius: 0px;
+    background: #cccccc;
+    color: #666666;
+}
+.mailbutton {
+    position: absolute;
+    width: 122px;
+    height: 60px;
+    left: 930px;
+    top: 1068px;
+
+    background: #CD6326;
+    border: 1px solid #CD6326;
+    border-radius: 0px 5px 5px 0px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    /*display: flex;*/
+    align-items: center;
+    text-align: center;
+
+    color: #F7F7F7;
+}
+.wlfooter {
+    position: absolute;
+    width: 1440px;
+    height: 359px;
+    left: 0px;
+    top: 2148px;
+
+    background-color: #181617;
+    background-image: url(./assets/leaves.jpeg);
+}
+.footerlogo {
+    display:flex;
+    text-align: center;
+}
+.wlflogoimg {
+    position: absolute;
+    width: 70px;
+    height: 60px;
+    left: 120px;
+    top: 150px;
+
+    
+    border-radius: 0px;
+}
+.wlflogotext {
+    position: absolute;
+    width: 155px;
+    height: 60px;
+    left: 198px;
+    top: 118px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 60px;
+
+    text-transform: uppercase;
+
+    color: #F7F7F7;
+}
+.wlarticles {
+    position: absolute;
+    width: 80px;
+    height: 60px;
+    left: 480px;
+    top: 150px;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 60px;
+    text-decoration: none;
+        
+    color: #F7F7F7;    
+}
+.wlabout {
+    position: absolute;
+    width: 100px;
+    height: 60px;
+    left: 646px;
+    top: 150px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 60px;
+    text-decoration: none;
+       
+    color: #F7F7F7;
+    
+}
+.wllearn {
+    position: absolute;
+    width: 129px;
+    height: 60px;
+    left: 831px;
+    top: 150px;
+
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 60px;
+    text-decoration: none;
+    
+    color: #F7F7F7;    
+} 
+.wlfacebook {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1080px;
+    top: 160px;
+    
+    
+    background: #F7F7F7;
+    border-radius: 20px;    
+
+    background-image: url(./assets/Facebook.svg);
+}
+.wlinstagram {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1147px;
+    top: 160px;
+    
+    background: #F7F7F7;
+    border-radius: 20px;
+
+    background-image: url(./assets/Instagram.svg);
+
+}
+.wlpinterest {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1213px;
+    top: 160px;
+    
+    background: #F7F7F7;
+    border-radius: 20px;
+
+    background-image: url(./assets/Pinterest.svg);
+}
+.wltelegram {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1280px;
+    top: 160px;
+    
+    background: #F7F7F7;
+    border-radius: 20px;
+
+    background-image: url(./assets/Telegram.svg);
+}
+a:hover {
+    background-color: orange;
+    cursor: pointer;
+}
+a:active {
+    background-color: olive;
+    cursor: pointer;
+}
+
+#donatebutton:hover {
+    background-color: orange;
+    cursor: pointer;
+}
+#donatebutton:active {
+    background-color: olive;
+    cursor: pointer;
+}
+
+.cvblock {
+    width: 800px;
+    background: rgb(228, 246, 247);
+    padding: 10px;
+    border: solid 2px red;
+    margin: auto;
+  }
+  
