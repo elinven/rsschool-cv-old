@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://elinven.github.io/rsschool-cv/
+https://rolling-scopes-school.github.io/elinven/wildlife
