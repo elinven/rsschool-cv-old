@@ -9,7 +9,7 @@
 _I am creative, hardworking and purposeful._
 I work as software developer and business analyst.
 My goals:
-1. Finish my studies in RS School in Javascript by the end of summer 2021.
+1. Finish my studies in RS School in Javascript by the end of summer 2022.
 1. Learn English to B1 level.
 ## Skills
 - OS
@@ -24,6 +24,7 @@ My goals:
   - FoxPro
   - VIP
   - 1C Programming language
+  - JavaScript
 ## Code example
 ```
 function factorial(n)
